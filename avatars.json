@@ -5,6 +5,30 @@
       "author": "miaru3d",
       "license": "CC BY",
       "file": "chibi-among-us.vrm"
+    },
+    {
+      "name": "Cool Banana",
+      "author": "Polygonal Mind",
+      "license": "CC0",
+      "file": "cool-banana.vrm"
+    },
+    {
+      "name": "Cool Alien",
+      "author": "Polygonal Mind",
+      "license": "CC0",
+      "file": "cool-alien.vrm"
+    },
+    {
+      "name": "Hatsune Miku",
+      "author": "Crypton Future Media",
+      "license": "VRoid license - redistribution allowed, credit required (non-commercial)",
+      "file": "hatsune-miku.vrm"
+    },
+    {
+      "name": "Anime Boy",
+      "author": "Kaosvs",
+      "license": "Used with creator's permission",
+      "file": "anime-boy.vrm"
     }
   ]
 }
